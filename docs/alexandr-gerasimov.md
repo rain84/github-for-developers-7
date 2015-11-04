@@ -7,3 +7,5 @@ BIO
 * A favorite food : Mashed potatoes
 * A hobby : To dawdle
 * Favorite color : blue+white
+* Status : searching my own Way
+* Nick : rain84
